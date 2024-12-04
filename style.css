@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: white;
+    overflow-x: hidden;
+}
+.contHead{
+    background-color: rgb(62, 71, 45);
+    height: 60px;
+    position: fixed;
+    font-family: "Anton";
+    z-index: 2;
+}
+html{
+    background-color: rgb(62, 71, 45);
+}
